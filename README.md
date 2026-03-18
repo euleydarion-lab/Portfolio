@@ -1,2 +1,2 @@
 # Portfolio
-Record of certifications aquired
+Record of certifications acquired
